@@ -43,7 +43,7 @@ I hope to work in a data-driven team where I can keep learning and use my analys
 
 ## My Projects
 
-- [Customer Churn Prediction](https://github.com/qqmallu/Customer_Churn/edit/main/README.md)
+- [Customer Churn Prediction](https://github.com/qqmallu/Customer_Churn)
 - [fastStorage trace](https://github.com/qqmallu/FastStorage-Trace)
 
 
