@@ -32,6 +32,8 @@ This is a beginner-level data analysis project focused on predicting customer ch
 
 -images/: Charts and visualizations
 
+## The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?resource=download).
+
 ## About Me
 
 Hello, my name is Guan-Chih Wang. You can call me QQ. I am preparing to change my career to become a data analyst.  
