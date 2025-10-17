@@ -36,7 +36,7 @@ This is a beginner-level data analysis project focused on predicting customer ch
 
 ## About Me
 
-Hello, my name is Guan-Chih Wang. You can call me QQ. I am preparing to change my career to become a data analyst.  
+Hello, my name is Timothy. You can call me QQ. I am preparing to change my career to become a data analyst.  
 I have learned the basics of Python and MySQL. I have built my portfolio and shared it on GitHub.  
 I continue improving my technical skills and project presentation.  
 I hope to work in a data-driven team where I can keep learning and use my analysis skills to create real value.
